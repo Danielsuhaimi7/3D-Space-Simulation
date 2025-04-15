@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1720412735 source:c:\users\dan raiqal\desktop\compgraphasg1\3dscene\3dscene.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1720547286 source:c:\users\dan raiqal\desktop\3dscene2\3dscene.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1720681647 source:c:\users\luqma\documents\mmu\3dscene5\3dscene5\3dscene.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+
+1720711361 source:c:\users\dan raiqal\desktop\3dscene8\3dscene7\3dscene7\3dscene.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<iostream>
+
+1720712947 source:c:\users\dan raiqal\desktop\wrwqr\compgraphicsproject\3dscene.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<iostream>
+
